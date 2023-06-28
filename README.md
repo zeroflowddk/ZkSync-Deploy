@@ -1,4 +1,4 @@
-- `yarn`: установка зависимостей 
-- `yarn hardhat deploy-zksync --script deploy-paymaster.ts`: деплоит контракт
+- `yarn`: install yarn depend.
+- `yarn hardhat deploy-zksync --script deploy-paymaster.ts`: smart deploy
 
  
